@@ -1,0 +1,94 @@
+{
+  "students": [
+    {
+      "id": "1",
+      "name": "Asha Mrema",
+      "place": "Dar es Salaam",
+      "phone": "0712345678",
+      "email": "asha@gmail.com",
+      "created_at": "2026-03-25"
+    },
+    {
+      "id": "2",
+      "name": "Brian Joseph",
+      "place": "Arusha",
+      "phone": "0756781234",
+      "email": "brian@gmail.com",
+      "created_at": "2026-03-25"
+    },
+    {
+      "id": "3",
+      "name": "Neema Paul",
+      "place": "Mwanza",
+      "phone": "0744556677",
+      "email": "neema@gmail.com",
+      "created_at": "2026-03-25"
+    },
+    {
+      "id": "4",
+      "name": "Kelvin John",
+      "place": "Dodoma",
+      "phone": "0766123456",
+      "email": "kelvin@gmail.com",
+      "created_at": "2026-03-25"
+    },
+    {
+      "id": "5",
+      "name": "Rehema Said",
+      "place": "Morogoro",
+      "phone": "0788991122",
+      "email": "rehema@gmail.com",
+      "created_at": "2026-03-25"
+    },
+    {
+      "id": "6",
+      "name": "Kisato Samson",
+      "email": "kisato@gmail.com",
+      "phone": "097654578",
+      "place": "Mbuza kwa Bibi Titi"
+    },
+    {
+      "id": "Kxr0VeYvkpE",
+      "name": "Elizabeth Michael",
+      "email": "elizabeth@gmail.com",
+      "phone": "09857484590",
+      "place": "Katambala"
+    },
+    {
+      "id": "ghZGIZYYook",
+      "name": "99",
+      "email": "00",
+      "phone": "99",
+      "place": "99"
+    },
+    {
+      "id": "HgUlTeQp1kg",
+      "name": "",
+      "email": "",
+      "phone": "",
+      "place": ""
+    },
+    {
+      "id": "8vevBpZLr3M",
+      "name": "",
+      "email": "",
+      "phone": "",
+      "place": ""
+    },
+    {
+      "id": "NVqfftoY7Xc",
+      "name": "",
+      "email": "",
+      "phone": "",
+      "place": ""
+    },
+    {
+      "id": "xsGQwPFnca8",
+      "name": "Kiliba Chief",
+      "email": "kiliba@gmail.com",
+      "phone": "9087655377",
+      "place": "Kawe, DSM"
+    }
+  ],
+  "$schema": "./node_modules/json-server/schema.json"
+}
